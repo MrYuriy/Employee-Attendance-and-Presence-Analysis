@@ -1,0 +1,8 @@
+venv/
+11-14.csv
+15-19.csv
+Employee-Attendance-and-Presence-Analysis/
+Grafik Testowy.xlsx
+__pycache__/
+build/
+dist/
